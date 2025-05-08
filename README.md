@@ -1,1 +1,4 @@
-# Cond_diffusionmodel
+# 条件付き画像生成プログラム
+
+$x$
+
